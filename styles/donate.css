@@ -56,3 +56,31 @@
 }
 
 /* Header section style ends here */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:576px) {
+    .banner{
+        flex-direction: column;
+        width: 100%;
+    }
+   
+}
+
+
+
+
